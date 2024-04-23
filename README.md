@@ -4,7 +4,7 @@
 
 <div id="header" align="center">
    <div id="header" align="center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fcover-photo&psig=AOvVaw3uYYa-j35jbxuYj1R4LytB&ust=1713983041915000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOi528P62IUDFQAAAAAdAAAAABAE" width="100%" />
+    <img url="https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fcover-photo&psig=AOvVaw3uYYa-j35jbxuYj1R4LytB&ust=1713983041915000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOi528P62IUDFQAAAAAdAAAAABAE" width="100%" />
   </div>
   <br>
   <div id="badges">
@@ -35,7 +35,7 @@
 
 #### 👨‍💻 About Me :
 
-> « The world is one big data problem. »
+> 
 > 
 I am Anass Nabil, a Moroccan web developer and IT technician with a deep passion for technology.
 I hold a degree in computer engineering from the Higher School of Technology.
@@ -83,8 +83,8 @@ Additionally, I am keenly interested in learning and mastering new technologies,
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss&logoColor=ffffff&labelColor=06B6D4)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=ffffff&labelColor=61DAFB)
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=ffffff&labelColor=009688)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 
 ##### ☁️ Cloud : 
 
