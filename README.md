@@ -1,81 +1,104 @@
-<h2 align="left">Hi 👋! My name is Anass Nabil and I'm a web developer</h2>
+<h1>
+ Hi 👋! My name is Anass Nabil 
+</h1>
 
-###
+<div id="header" align="center">
+   <div id="header" align="center">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fcover-photo&psig=AOvVaw3uYYa-j35jbxuYj1R4LytB&ust=1713983041915000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOi528P62IUDFQAAAAAdAAAAABAE" width="100%" />
+  </div>
+  <br>
+  <div id="badges">
+    <a href="https://anass-nabil.vercel.app/">
+      <img src="https://img.shields.io/badge/portfolio-4366f0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/anassnabil/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+  </div>
 
-<div align="center">
+  <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Anass-NB&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Back+end+developer++👨🏻‍💻;Junior+Data+Scientis+🤖;Mobile+Developer+💻)](https://git.io/typing-svg)
+
+  ![Profile views](https://komarev.com/ghpvc/?username=Hamagistral&style=plastic&color=blue)
+  [![GitHub followers](https://img.shields.io/github/followers/Hamagistral.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Hamagistral?tab=followers)
 </div>
 
-###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+---
 
-###
+#### 👨‍💻 About Me :
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="30" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
+> « The world is one big data problem. »
+> 
+I am Anass Nabil, a Moroccan web developer and IT technician with a deep passion for technology.
+I hold a degree in computer engineering from the Higher School of Technology.
+I am inherently curious and highly motivated to continually enhance my skills in web development.
+My focus lies in developing user-friendly web applications while staying abreast of contemporary design trends. My commitment to simplicity, elegance, and stringent quality control is evident in all my projects.
+Additionally, I am keenly interested in learning and mastering new technologies, with a particular emphasis on the rapidly evolving field of data science
+
+#### 🎓 Certifications :
+
+<div id="header" >
+  <div id="badges">
+    <a href="#">
+      <img src="https://img.shields.io/badge/DataCamp%20Data%20Engineer-000000?style=flat&logo=Datacamp&logoColor=white&labelColor=03EF62" alt="Datacamp"/>
+    </a>
+   </div>
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="Anassnabil067@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/anassnabil/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+#### :hammer_and_wrench: Languages and Tools :
 
-###
+##### 💻 Programming : 
 
-<br clear="both">
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=ffffff&labelColor=3776AB)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=ffffff&labelColor=FF6F00)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=ffffff&labelColor=3776AB)
 
-<img src="https://raw.githubusercontent.com/Anass-NB/Anass-NB/output/snake.svg" alt="Snake animation" />
+##### 💾 Databases : 
 
-###
+![Mysql](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white&labelColor=2300f)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=white&labelColor=07405e)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=ffffff&labelColor=47A248)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Anass-NB/count.svg?"  />
-</div>
+##### 🤖 Data & ML : 
 
-###
+![Scikitlearn](https://img.shields.io/badge/Scikitlearn-000000?style=flat&logo=scikit-learn&logoColor=white&labelColor=F7931E)
+![Selenium](https://img.shields.io/badge/Selenium-000000?style=flat&logo=selenium&logoColor=white&labelColor=43B02A)
+![Powerbi](https://img.shields.io/badge/Power%20BI-000000?style=flat&logo=power-bi&logoColor=white&labelColor=F2C811)
+
+##### 🌐 Web Dev : 
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
+![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript&logoColor=ffffff&labelColor=F7DF1E)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss&logoColor=ffffff&labelColor=06B6D4)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=ffffff&labelColor=61DAFB)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=ffffff&labelColor=009688)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+##### ☁️ Cloud : 
+
+![AWS](https://img.shields.io/badge/Amazon%20AWS-000000?style=flat&logo=amazon-aws&logoColor=white&labelColor=FF9900)
+
+
+##### 🔨 Tools : 
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=Linux&logoColor=white&labelColor=FCC624)
+![Oracle](https://img.shields.io/badge/Oracle-000000?style=flat&logo=Oracle&logoColor=white&labelColor=D00000)
+![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=Git&logoColor=white&labelColor=F05032)
+![GitLab](https://img.shields.io/badge/Gitlab-000000?style=flat&logo=Gitlab&logoColor=white&labelColor=E97627)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+
+
+
