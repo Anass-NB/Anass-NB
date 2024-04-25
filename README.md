@@ -100,8 +100,8 @@ Additionally, I am keenly interested in learning and mastering new technologies,
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=Linux&logoColor=white&labelColor=FCC624)
 ![Oracle](https://img.shields.io/badge/Oracle-000000?style=flat&logo=Oracle&logoColor=white&labelColor=D00000)
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=Git&logoColor=white&labelColor=F05032)
-![GitLab](https://img.shields.io/badge/Gitlab-000000?style=flat&logo=Gitlab&logoColor=white&labelColor=E97627)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
 
 
 
