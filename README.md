@@ -17,7 +17,7 @@
     <a href="https://www.linkedin.com/in/anassnabil/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
     </a>
-    <a href="#">
+    <a href="https://www.youtube.com/@Anass-NB">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
   </div>
