@@ -35,8 +35,7 @@
 
 #### 👨‍💻 About Me :
 
-> 
-> 
+```json
 {
   "name": "Anass Nabil",
   "nationality": "Moroccan 🇲🇦",
@@ -58,6 +57,8 @@
   "focus": "Creating user-friendly web applications with modern design trends",
   "currently": "Exploring data science and enhancing web development skills"
 }
+```
+
 #### 🎓 Certifications :
 
 <div id="header" >
@@ -117,7 +118,3 @@
 ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=Git&logoColor=white&labelColor=F05032)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
-
-
-
-
