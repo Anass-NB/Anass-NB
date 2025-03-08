@@ -48,13 +48,12 @@ const anassNabil = {
   name: "Anass Nabil",
   nationality: "Moroccan 🇲🇦",
   education: {
-    degree: "Computer Engineering",
-    institution: "Higher School of Technology"
+    degree: "Master Degree in Big Data & IOT",
+    institution: "National School of Arts and Crafts"
   },
-  role: "Web Developer & IT Technician",
-  passions: ["Technology", "Web Development", "Data Science"],
-  values: ["Simplicity", "Elegance", "Quality"],
-  focus: "Creating user-friendly web applications with modern design trends",
+  role: "Web Developer & data enthusiast",
+  passions: ["Technology", "Web Development", "Data Engineering "],
+  focus: "Creating user-friendly web applications",
   currently: "Exploring data science and enhancing web development skills"
 };
 ```
