@@ -37,12 +37,27 @@
 
 > 
 > 
-I am Anass Nabil, a Moroccan web developer and IT technician with a deep passion for technology.
-I hold a degree in computer engineering from the Higher School of Technology.
-I am inherently curious and highly motivated to continually enhance my skills in web development.
-My focus lies in developing user-friendly web applications while staying abreast of contemporary design trends. My commitment to simplicity, elegance, and stringent quality control is evident in all my projects.
-Additionally, I am keenly interested in learning and mastering new technologies, with a particular emphasis on the rapidly evolving field of data science
-
+{
+  "name": "Anass Nabil",
+  "nationality": "Moroccan 🇲🇦",
+  "education": {
+    "degree": "Computer Engineering",
+    "institution": "Higher School of Technology"
+  },
+  "role": "Web Developer & IT Technician",
+  "passions": [
+    "Technology",
+    "Web Development",
+    "Data Science"
+  ],
+  "values": [
+    "Simplicity",
+    "Elegance",
+    "Quality"
+  ],
+  "focus": "Creating user-friendly web applications with modern design trends",
+  "currently": "Exploring data science and enhancing web development skills"
+}
 #### 🎓 Certifications :
 
 <div id="header" >
