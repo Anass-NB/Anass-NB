@@ -1,5 +1,5 @@
-<h1>
- Hi 👋! My name is Anass Nabil 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4C8ED7&random=false&width=435&lines=Hi+there!+I'm+Anass+Nabil+👋" alt="Typing SVG" />
 </h1>
 
 <div id="header" align="center">
@@ -7,114 +7,148 @@
     <img url="https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fcover-photo&psig=AOvVaw3uYYa-j35jbxuYj1R4LytB&ust=1713983041915000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOi528P62IUDFQAAAAAdAAAAABAE" width="100%" />
   </div>
   <br>
-  <div id="badges">
+  
+  <div>
     <a href="https://anass-nabil.vercel.app/">
-      <img src="https://img.shields.io/badge/portfolio-4366f0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+      <img src="https://img.shields.io/badge/Portfolio-4366f0?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio Badge"/>
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+      <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
     </a>
     <a href="https://www.linkedin.com/in/anassnabil/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
     </a>
     <a href="https://www.youtube.com/@Anass-NB">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
   </div>
 
   <br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C8ED7&random=false&width=435&lines=Back+end+developer++👨🏻‍💻;Junior+Data+Scientis+🤖;Mobile+Developer+💻)](https://git.io/typing-svg)
-
-  ![Profile views](https://komarev.com/ghpvc/?username=Hamagistral&style=plastic&color=blue)
-  [![GitHub followers](https://img.shields.io/github/followers/Anass-NB.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Anass-NB?tab=followers)
+  <div>
+    <img src="https://img.shields.io/badge/Backend_Developer-202124?style=flat-square&logo=serverless&logoColor=4C8ED7" alt="Developer Badge"/>
+    <img src="https://img.shields.io/badge/Data_Scientist-202124?style=flat-square&logo=python&logoColor=4C8ED7" alt="Data Scientist Badge"/>
+    <img src="https://img.shields.io/badge/Mobile_Developer-202124?style=flat-square&logo=react&logoColor=4C8ED7" alt="Mobile Developer Badge"/>
+  </div>
+  
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=Anass-NB&style=flat-square&color=4C8ED7" alt="Profile views"/>
+    <a href="https://github.com/Anass-NB?tab=followers">
+      <img src="https://img.shields.io/github/followers/Anass-NB.svg?style=flat-square&label=Followers&logo=github&color=4C8ED7" alt="GitHub followers"/>
+    </a>
+  </div>
 </div>
 
+<br>
 
----
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> About Me
 
-#### 👨‍💻 About Me :
-
-```json
-{
-  "name": "Anass Nabil",
-  "nationality": "Moroccan 🇲🇦",
-  "education": {
-    "degree": "Computer Engineering",
-    "institution": "Higher School of Technology"
+```typescript
+const anassNabil = {
+  name: "Anass Nabil",
+  nationality: "Moroccan 🇲🇦",
+  education: {
+    degree: "Computer Engineering",
+    institution: "Higher School of Technology"
   },
-  "role": "Web Developer & IT Technician",
-  "passions": [
-    "Technology",
-    "Web Development",
-    "Data Science"
-  ],
-  "values": [
-    "Simplicity",
-    "Elegance",
-    "Quality"
-  ],
-  "focus": "Creating user-friendly web applications with modern design trends",
-  "currently": "Exploring data science and enhancing web development skills"
-}
+  role: "Web Developer & IT Technician",
+  passions: ["Technology", "Web Development", "Data Science"],
+  values: ["Simplicity", "Elegance", "Quality"],
+  focus: "Creating user-friendly web applications with modern design trends",
+  currently: "Exploring data science and enhancing web development skills"
+};
 ```
 
-#### 🎓 Certifications :
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> Certifications
 
-<div id="header" >
-  <div id="badges">
-    <a href="#">
-      <img src="https://img.shields.io/badge/DataCamp%20Data%20Engineer-000000?style=flat&logo=Datacamp&logoColor=white&labelColor=03EF62" alt="Datacamp"/>
-    </a>
-   </div>
+<div>
+  <a href="#">
+    <img src="https://img.shields.io/badge/DataCamp_Data_Engineer-03EF62?style=for-the-badge&logo=datacamp&logoColor=black" alt="Datacamp"/>
+  </a>
 </div>
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Tech Stack
+
+<details open>
+<summary><b>💻 Programming</b></summary>
+<br>
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-FF6F00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
+</p>
+</details>
+
+<details>
+<summary><b>💾 Databases</b></summary>
+<br>
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+</p>
+</details>
+
+<details>
+<summary><b>🤖 Data & ML</b></summary>
+<br>
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ScikitLearn"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/></a>
+</p>
+</details>
+
+<details>
+<summary><b>🌐 Web Dev</b></summary>
+<br>
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/></a>
+</p>
+</details>
+
+<details>
+<summary><b>📱 Mobile Dev</b></summary>
+<br>
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/></a>
+</p>
+</details>
+
+<details>
+<summary><b>☁️ Cloud</b></summary>
+<br>
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
+</p>
+</details>
+
+<details>
+<summary><b>🔨 Tools</b></summary>
+<br>
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/></a>
+</p>
+</details>
 
 ---
 
-#### :hammer_and_wrench: Languages and Tools :
-
-##### 💻 Programming : 
-
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=ffffff&labelColor=3776AB)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=ffffff&labelColor=FF6F00)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=ffffff&labelColor=3776AB)
-
-##### 💾 Databases : 
-
-![Mysql](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white&labelColor=2300f)
-![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=white&labelColor=07405e)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=ffffff&labelColor=47A248)
-
-##### 🤖 Data & ML : 
-
-![Scikitlearn](https://img.shields.io/badge/Scikitlearn-000000?style=flat&logo=scikit-learn&logoColor=white&labelColor=F7931E)
-![Selenium](https://img.shields.io/badge/Selenium-000000?style=flat&logo=selenium&logoColor=white&labelColor=43B02A)
-![Powerbi](https://img.shields.io/badge/Power%20BI-000000?style=flat&logo=power-bi&logoColor=white&labelColor=F2C811)
-
-##### 🌐 Web Dev : 
-
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
-![Javascript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=javascript&logoColor=ffffff&labelColor=F7DF1E)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss&logoColor=ffffff&labelColor=06B6D4)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=ffffff&labelColor=61DAFB)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=ffffff&labelColor=009688)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
-
-##### :iphone: Mobile Dev : 
-
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-
-##### ☁️ Cloud : 
-
-![AWS](https://img.shields.io/badge/Amazon%20AWS-000000?style=flat&logo=amazon-aws&logoColor=white&labelColor=FF9900)
-
-
-##### 🔨 Tools : 
-
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=Linux&logoColor=white&labelColor=FCC624)
-![Oracle](https://img.shields.io/badge/Oracle-000000?style=flat&logo=Oracle&logoColor=white&labelColor=D00000)
-![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=Git&logoColor=white&labelColor=F05032)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+<div align="center">
+  <a href="https://github.com/Anass-NB">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anass-NB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anass-NB&theme=tokyonight" alt="Anass-NB" />
+  </a>
+</div>
