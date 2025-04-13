@@ -52,7 +52,7 @@ const anassNabil = {
     institution: "National School of Arts and Crafts"
   },
   role: "Web Developer & data enthusiast",
-  passions: ["Technology", "Web Development", "Data Engineering "],
+  passions: ["Technology", "Web Development", "Data Engineering " , "Content Creation" , "Travel" , "Sports" , "baraka :)"],
   focus: "Creating user-friendly web applications",
   currently: "Exploring data science and enhancing web development skills"
 };
