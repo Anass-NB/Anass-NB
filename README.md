@@ -20,8 +20,7 @@
 <p align="center">
   <em>“Data is not just a field. It's a way of life.”</em>
 </p>
-A human first , 
-A curious It enthusiast , i love build cool thinks that let's pepole use it , i love how to create thing from scratch in IT field
+A human first, a curious IT enthusiast, I love building cool things that people can use. I enjoy creating projects from scratch in the IT field, turning ideas into real solutions. Every new challenge is an opportunity for me to learn, grow, and innovate.
 
 ### Languages and Tools 🛠️ :
 
