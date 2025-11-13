@@ -1,9 +1,6 @@
 <!-- add warning title this readme file is still under modification with orANGE color styled font -->
-<h6 align="center" style="color: orange;font-family:serif">⚠️ This README is still under modification ⚠️</h1>
 <h1 align="center">Hi👋🏻,  I'm Anass Nabil</h1>
-<div align="center">
-  <img src="kirua-3.gif" alt="kirua" width="200"/>
-</div>
+
 
 <h3 align="center"> Data Engineer | Builds Data Pipes for fun 🛠️  | Passionate about Cloud ☁️, Infrastructure 🏗️ and DevOps 🧠 </h3>
 <br>
